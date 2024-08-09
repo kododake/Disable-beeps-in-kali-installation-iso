@@ -14,5 +14,3 @@ $ chmod +x kali-nobeep.sh
 ```
 $ sudo ./kali-nobeep.sh "kali.iso"
 ```
-
-When you finish, the iso file will be in the directory where you executed it.
