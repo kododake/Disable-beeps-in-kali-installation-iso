@@ -42,6 +42,6 @@ xorriso \
    -boot_image isolinux partition_entry=gpt_basdat \
    -stdio_sync off
 
-sudo rm -r "$new_files"
+rm -r "$new_files"
 rm "$mbr_template"
 echo "Finished."
