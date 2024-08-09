@@ -5,6 +5,9 @@ Please install **Xorriso** beforehand.
 ```
 $ sudo apt install xorriso
 ```
+```
+$ chmod +x kali-nobeep.sh
+```
 
 #### Usage: 
 
