@@ -1,6 +1,6 @@
 #!/bin/bash
-orig_iso=original.iso
-image_volid="kali amd64"
+orig_iso="$1"
+image_volid="$1"
 
 new_files="$orig_iso"_unpacked_and_modified
 new_iso="$orig_iso"_modified.iso
